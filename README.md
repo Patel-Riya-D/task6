@@ -52,6 +52,28 @@ This project is part of an AI & ML Internship task focused on understanding and 
 - **Confusion matrix** visualizes correct and incorrect classifications
 - Best `K` found to be **3** in this implementation
 
+
+### ✅ Accuracy per K
+
+| K | Accuracy |
+|---|----------|
+| 1 | 1.00     |
+| 2 | 0.97     |
+| 3 | 1.00     |
+| 4 | 1.00     |
+| 5 | 1.00     |
+| 6 | 1.00     |
+| 7 | 1.00     |
+| 8 | 1.00     |
+| 9 | 1.00     |
+| 10| 1.00     |
+
+> **K = 3** was chosen for detailed evaluation.
+
+---
+
+### 🧾 Confusion Matrix (K = 3)
+
 ---
 
 ## 📉 Decision Boundary

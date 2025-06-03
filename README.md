@@ -74,6 +74,16 @@ This project is part of an AI & ML Internship task focused on understanding and 
 
 ### 🧾 Confusion Matrix (K = 3)
 
+![image](https://github.com/user-attachments/assets/306f61cb-6ca8-4e04-a481-6ecb7e2fdbc5)
+
+**Interpretation**:
+- ✅ All predictions are correct — perfect classification!
+- Setosa: 10/10 correct
+- Versicolor: 9/9 correct
+- Virginica: 11/11 correct
+- ❌ No misclassifications (no off-diagonal errors)
+
+
 ---
 
 ## 📉 Decision Boundary
@@ -82,6 +92,11 @@ To visualize decision regions, a 2D subset (`sepal_length` and `sepal_width`) wa
 
 ![image](https://github.com/user-attachments/assets/d6ee2862-37d8-424b-af65-e82a8f1ce5f1)
 
+**Interpretation**:
+- The 2D plot shows 3 clear regions corresponding to each Iris species.
+- Decision boundaries are nonlinear and shaped based on training points.
+- Setosa is distinctly separated.
+- Virginica and Versicolor overlap slightly, showing the natural closeness of these classes in feature space.
 
 
 ---

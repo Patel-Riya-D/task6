@@ -58,6 +58,9 @@ This project is part of an AI & ML Internship task focused on understanding and 
 
 To visualize decision regions, a 2D subset (`sepal_length` and `sepal_width`) was used. The KNN model was trained and plotted to show how it separates the three flower species in feature space.
 
+![image](https://github.com/user-attachments/assets/d6ee2862-37d8-424b-af65-e82a8f1ce5f1)
+
+
 
 ---
 
